@@ -1,0 +1,5 @@
+com.adamant.Cliente
+com.adamant.EstoqueDeProdutos
+com.adamant.Produto
+com.adamant.Balanca
+com.adamant.Funcionario
